@@ -1,5 +1,5 @@
 {
-	"name": "touchportal-raidassistant",
+	"name": "touchportal.plugin.streamloots",
 	"image": "mcr.microsoft.com/devcontainers/java:dev-8-jdk-bullseye",
 	"workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
 	"shutdownAction": "stopContainer",
@@ -13,7 +13,7 @@
 	"customizations": {
 		"vscode": {
 			"settings": {
-				"window.title": "touchportal-raidassistant"
+				"window.title": "touchportal.plugin.streamloots"
 			},
 			"extensions": [
 				"vscjava.vscode-java-pack",
