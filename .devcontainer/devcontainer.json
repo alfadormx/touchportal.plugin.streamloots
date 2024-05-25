@@ -19,7 +19,8 @@
 				"vscjava.vscode-java-pack",
 				"vscjava.vscode-gradle",
 				"mhutchie.git-graph",
-				"PKief.material-icon-theme"
+				"actboy168.tasks",
+				"mutantdino.resourcemonitor"
 			]
 		}
 	}
